@@ -28,8 +28,9 @@ class Consulta_controller
                             </form>
                         </div>
                     </div>
+                    <div id="Respuesta9"></div>
                 </div>
-                <div id="Respuesta9"></div>';
+               ';
     }
 }
 

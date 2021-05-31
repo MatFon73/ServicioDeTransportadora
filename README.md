@@ -35,12 +35,12 @@ con el objetivo de aprender mas en profundidad el lenguaje de programacion en ph
 ### Operador
 - es para hacer el proceso de entrada y salida de vehiculos.
 
-![](https://imagizer.imageshack.com/img924/4396/o5w22q.png)
+![](https://imagizer.imageshack.com/img922/5246/UA5TT4.png)
 
 ### Consulta
 - solo puede hacer una consulta teniendo la fecha y la placa del vehiculo.
 
-![](https://imagizer.imageshack.com/img923/8579/UF34Iy.png)
+![](https://imagizer.imageshack.com/img924/7483/rCLJUF.png)
 
 
 # Recuperar Contraseña
