@@ -1,0 +1,19 @@
+{
+  "name": "serviciodetransporte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheoFonck73/SistemaDeTransporte.git"
+  },
+  "author": "MatheoFonck73",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheoFonck73/SistemaDeTransporte/issues"
+  },
+  "homepage": "https://github.com/MatheoFonck73/SistemaDeTransporte#readme"
+}

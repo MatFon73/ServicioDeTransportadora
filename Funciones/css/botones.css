@@ -1,0 +1,24 @@
+.Btn1 {
+  color: #fff;
+  background-color:  rgb(71, 123, 158);
+  width: 100%;
+  padding: 3%;
+  border: 0 none;
+  text-align: left;
+  transition: 0.5s;
+  border-radius: 5px 5px 5px 5px;
+}
+.Btn1:hover {
+  background-color:  rgb(71, 123, 158);
+}
+
+.Btn1:focus {
+  outline: none;
+}
+.Paneles {
+  background-color: #fff,!important;
+  border-radius: 5px 5px 5px 5px;
+  color: black;
+  padding: 5%;
+  margin-top: -5%;
+}
