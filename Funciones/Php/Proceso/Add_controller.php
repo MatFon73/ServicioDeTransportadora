@@ -13,7 +13,7 @@ class  crearProceso_controller
             //Iniciar una transacción, desactivando autocommitIntegrity constraint violation: 1048 Column 'Placa' cannot be null
             $Conexiondb->beginTransaction();
 
-            $query = 'INSERT INTO proceso (Placa, Hora, Peso, Observacion) VALUES (:placa, :hora, :peso, Observacion)';
+            $query = 'INSERT INTO proceso (Placa, Hora, Peso, Observacion) VALUES (:placa, :hora, :peso, :observacion)';
 
             //Ejecuta una sentencia
             $sql = $Conexiondb->prepare($query);
