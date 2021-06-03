@@ -16,6 +16,10 @@ con el objetivo de aprender mas en profundidad el lenguaje de programacion en ph
 - sweetalert: alertas.
 - fontawesome: iconos.
 
+### Desarrolladores
+- Kevin Rincon (@KFrinconJ).
+- Mateo Fonseca (@MatheoFonck73).
+
 # Inicio De Sesion
 ![](https://imagizer.imageshack.com/img922/2977/6Ygg5w.png)
 
@@ -128,7 +132,7 @@ con el objetivo de aprender mas en profundidad el lenguaje de programacion en ph
 ![](https://imagizer.imageshack.com/img922/2897/PCKaoB.png)
 
 ### Informacion de la vista
--pagina principal donde se puede observar una tabla con la informacion de los proceso y 2 botones.
+- pagina principal donde se puede observar una tabla con la informacion de los proceso y 2 botones.
 
 # Estructura de la base de datos 
 ![](https://imagizer.imageshack.com/img922/9875/h3PIO6.png)
