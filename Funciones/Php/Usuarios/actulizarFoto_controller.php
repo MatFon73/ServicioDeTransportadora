@@ -14,7 +14,7 @@ class  ActualizarFoto_controller
 
         $imagen = $_FILES['I']['name'];
         $tmp = ($_FILES['I']['tmp_name']);
-        $guardar = 'C:\xampp\htdocs\ProyectoEletiva4\Publicas\Perfil/' . $imagen;
+        $guardar = '..\..\..\Publicas\Perfil/' . $imagen;
         $Url = 'Publicas\Perfil/' . $imagen;
         move_uploaded_file($tmp,  $guardar);
 
