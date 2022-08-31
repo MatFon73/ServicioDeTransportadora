@@ -2,6 +2,7 @@
 - Este proyecto fue creado para la clase de electiva 4: Programacion en php
 con el objetivo de aprender mas en profundidad el lenguaje de programacion en php.
 - se realizo un pequeño proyecto de login, registro, seguimiento de procesos y crud.
+- Video de funcionamiento (https://youtu.be/DvxWizC57s4)
 
 ### Lenguaje Utilizado
 
